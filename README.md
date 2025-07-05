@@ -8,7 +8,9 @@ This is a simple Amazon.com homepage clone built using only HTML and CSS. It foc
 │── box1_image.jpg ... box12.jpg  
 
 index.html        → Main HTML file 
+
 style.css         → Styling
+
 README.md         → Project documentation  
 
 # Features
